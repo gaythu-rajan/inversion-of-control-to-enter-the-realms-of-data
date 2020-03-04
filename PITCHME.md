@@ -1,19 +1,19 @@
-@title[Slide Design Templates]
+@title[Inversion Of Control To Enter The Realms of Data]
 
 @snap[west span-60]
-## GitPitch
-#### Quickstart Slide Designs
+## Inversion Of Control To Enter The Realms of Data
+### Gayathri Thiyagarajan
 @snapend
 
-@snap[east span-25 h4-white text-center]
-#### [See the Templates Guide @fa[external-link]](https://gitpitch.com/docs/the-template)
-@snapend
+---
 
-@snap[south-west span-50 text-gray text-smallcaps text-06]
-Powered by markdown snippets.
-@snapend
+**Gayathri Thiyagarajan** <br/>
+Engineering Manager @ Expedia Group <br/>
+[@gaythu-rajan](https://twitter.com/gaythu-rajan)
 
-@snap[south-east span-50 text-white text-smallcaps text-06]
-As simple as copy-n-paste.
-@snapend
+Note:
+
+* Java Engineer for over 15 years. I have lead many projects implementing architectures such as Microservices, Event Sourcing, CQRS. In the past year and half I have been working on delivering BigData Capture platform for one of EG brands Hotels.Com. I am avid public speaker having given many talks on Domain Driven Design. 
+
+---
 
