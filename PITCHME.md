@@ -42,20 +42,19 @@ Less buy-in from producers
 
 Data was someone else’ concern
 ---
-
-Data was 2nd class citizen 
+**Data was 2nd class citizen**
 
 Note: 
 Less focus on tooling
 
 ---
-Overhead and pain
+**Overhead and pain**
 
 ---
-Changing architecture landscape
+**Changing architecture landscape**
 
 ---
-Details
+**Details**
 
 Note:
 How did we capture data then - legacy?
